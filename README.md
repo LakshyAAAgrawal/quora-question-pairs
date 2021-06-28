@@ -1,8 +1,8 @@
 # Detecting Semantic Equivalence of Quora Question Pairs
 
-Lakshya A Agrawal (lakshya18242@iiitd.ac.in)
-Shrikant Garg (shrikant18312@iiitd.ac.in)
-Bhavya Chopra (bhavya18333@iiitd.ac.in)
+Lakshya A Agrawal (lakshya18242@iiitd.ac.in) <br>
+Shrikant Garg (shrikant18312@iiitd.ac.in) <br>
+Bhavya Chopra (bhavya18333@iiitd.ac.in) <br>
 
 Link to dataset: [Kaggle Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs/data)
 
@@ -29,14 +29,37 @@ The dataset (60 MB) consists of 6 attributes:
  - is_duplicate: 0 if questions are not duplicates, 1 if questions are duplicates. 
 
 We found the data to be imbalanced (Class_0:Class_1 ratio is 63:37)
+
+<img src="https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/plots_data.png" width="600px"></img>
+
+Word cloud for different question pairs:
+
+![alt](https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/word_cloud_different.png)
+
+Word cloud for duplicate question pairs:
+
+![alt](https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/word_cloud_dups_1.png)
   
 ### Feature Extraction
+<img src="https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/plots_EDA.png" width="700px"></img>
+<img src="https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/feat_ext1.png" width="700px"></img>
 
 ### Feature Selection
+Pair Plots for all extracted features:
+
+<img src="https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/feat_pair_plots.png" width="800px"></img>
 
 ### Baseline models
 
+<img src="https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/svm-boundary.jpeg"></img>
+
+<img src="https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/XGBoost_ROC.png" width="600px"></img>
+
 ### Text to Vector approaches
+
+<img src="https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/pca.jpeg" width="400px"></img>
+
+<img src="https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/feat_plots.png" width="600px"></img>
 
 ### Training Neural Networks
 
