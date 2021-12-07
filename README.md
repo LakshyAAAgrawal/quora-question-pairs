@@ -39,7 +39,39 @@ Word cloud for different question pairs:
 Word cloud for duplicate question pairs:
 
 ![alt](https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/word_cloud_dups_1.png)
-  
+
+### Slides
+![](assets/slides/1.png)
+![](assets/slides/2.png)
+![](assets/slides/3.png)
+![](assets/slides/4.png)
+![](assets/slides/5.png)
+![](assets/slides/6.png)
+![](assets/slides/7.png)
+![](assets/slides/8.png)
+![](assets/slides/9.png)
+![](assets/slides/10.png)
+![](assets/slides/11.png)
+![](assets/slides/12.png)
+![](assets/slides/13.png)
+![](assets/slides/14.png)
+![](assets/slides/15.png)
+![](assets/slides/16.png)
+![](assets/slides/17.png)
+![](assets/slides/18.png)
+![](assets/slides/19.png)
+![](assets/slides/20.png)
+![](assets/slides/21.png)
+![](assets/slides/22.png)
+![](assets/slides/23.png)
+![](assets/slides/24.png)
+![](assets/slides/25.png)
+![](assets/slides/26.png)
+![](assets/slides/27.png)
+![](assets/slides/28.png)
+![](assets/slides/29.png)
+![](assets/slides/30.png)
+
 ### Feature Extraction
 <img src="https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/plots_EDA.png" width="700px"></img>
 <img src="https://github.com/LakshyAAAgrawal/quora-question-pairs/blob/main/assets/feat_ext1.png" width="700px"></img>
